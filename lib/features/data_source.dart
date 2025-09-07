@@ -42,7 +42,6 @@ Really Your advices made a big difference to me.
 
 May God bless you, your life, and your efforts, increase you from His grace and bounty, and always make you a reason for spreading knowledge to others
 
-
 ''',
     screenColor: ColorPallete.purple,
   ),
